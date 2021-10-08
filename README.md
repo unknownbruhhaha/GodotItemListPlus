@@ -1,2 +1,3 @@
 # GodotItemListPlus
- Better ItemList for Godot
+ Highly customizible ItemList for Godot
+ 
